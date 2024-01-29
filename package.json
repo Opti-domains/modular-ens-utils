@@ -1,0 +1,6 @@
+{
+  "dependencies": {
+    "@types/node": "^20.11.10",
+    "winston": "^3.11.0"
+  }
+}
